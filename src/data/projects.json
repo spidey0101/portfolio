@@ -1,0 +1,85 @@
+[
+  {
+    "title": "BookMyStay - Hotel Room Booking",
+    "imageSrc": "projects/booking.png",
+    "description": "A hotel room booking system using HTML, CSS, JS, PHP, and SQL for easy reservations. ",
+    "skills": [
+      "HTML/CSS/JS",
+      "PHP",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Predictive Health Guru",
+    "imageSrc": "projects/health.png",
+    "description": "Ongoing project for predictive healthcare analysis, improving outcomes with smart forecasting.",
+    "skills": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "title": "SDG: Quality Education Analyzer",
+    "imageSrc": "projects/education.png",
+    "description": "Data analysis on Sustainable Development Goal 4 to enhance education metrics.",
+    "skills": [
+      "Data Analysis",
+      "Python"
+    ]
+  },
+  {
+    "title": "Crypto Tracker Pro",
+    "imageSrc": "projects/crypto.png",
+    "description": "Real-time crypto tracker built with Python to monitor market trends.",
+    "skills": [
+      "Python",
+      "API Integration"
+    ]
+  },
+  {
+    "title": "Task Ninja - To Do List",
+    "imageSrc": "projects/to-do.png",
+    "description": "A sleek to-do list app built with Android Java to keep your tasks organized.",
+    "skills": [
+      "Android",
+      "Java"
+    ]
+  },
+  {
+    "title": "Simon Says Challenge",
+    "imageSrc": "projects/simon.png",
+    "description": "Interactive Simon Says game with Java and Swing to test memory and reflexes. ",
+    "skills": [
+      "Java",
+      "Swing"
+    ]
+  },
+  {
+    "title": "FaceGuard - Age & Gender Detection",
+    "imageSrc": "projects/face.png",
+    "description": "Real-time age and gender detection using Python deep learning. ",
+    "skills": [
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  {
+    "title": "Llama Index RAG Models",
+    "imageSrc": "projects/chatbots.png",
+    "description": "Basic RAG models with Llama Index for improved info retrieval and generation. ",
+    "skills": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "title": "Intruder Detection System for IoT Security",
+    "imageSrc": "projects/intruder.png",
+    "description": "Prototype IoT-based intruder detection system with motion sensors, sirens, CCTV, and a smart tablet interface for real-time alerts. ",
+    "skills": [
+      "IoT",
+      "Cisco Packet Tracer",
+      "Security Systems"
+    ]
+  }
+]
